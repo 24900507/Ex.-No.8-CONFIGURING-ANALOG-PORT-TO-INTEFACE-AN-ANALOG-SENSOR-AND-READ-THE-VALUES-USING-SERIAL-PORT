@@ -268,8 +268,12 @@ void Error_Handler(void)
 ```
 ## Output :
 
-![WhatsApp Image 2025-11-06 at 08 59 18](https://github.com/user-attachments/assets/9297aed8-fca8-431a-a46e-e5c8cc8c4895)
 ![Screenshot0845](https://github.com/user-attachments/assets/01182e20-2f8f-4749-a858-272753aa7404)
+
+
+
+
+![WhatsApp Image 2025-11-06 at 08 59 18](https://github.com/user-attachments/assets/9297aed8-fca8-431a-a46e-e5c8cc8c4895)
 
 ## Result :
 Thus configure ADC channel for interfacing an analog sensor and read the values on the com port successfully.
